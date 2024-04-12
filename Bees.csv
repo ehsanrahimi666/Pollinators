@@ -1,0 +1,8 @@
+Bees,n_presences,n_absences,AUC_mean,BOYCE_mean,IMAE_mean
+"Bombus hypocrita sapporoensis Cockerell, 1911",42,5000,0.79035,0.981067674,0.632651944
+"Andrena mikado Strand & Yasumatsu, 1938",36,5000,0.79,0.981313788,0.702085518
+"Amegilla florea (Smith, 1879)",37,5000,0.773066667,0.991121137,0.652343503
+"Andrena rosae alfkeni Friese, 1914",45,5000,0.75832,0.989938692,0.633038498
+"Colletes collaris Dours, 1872",34,5000,0.75059,0.98994121,0.627335201
+"Eucera spurcatipes Pérez, 1905",30,5000,0.748833333,0.926340533,0.614763798
+"Bombus ussurensis Radoszkowski, 1877",69,5000,0.746778022,0.917548355,0.646548608

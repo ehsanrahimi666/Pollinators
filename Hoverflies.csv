@@ -1,0 +1,20 @@
+Hoverflies,model,n_presences,n_absences,AUC_mean,BOYCE_mean,IMAE_mean
+"Metasyrphus luniger (Meigen, 1822)",max,33,5000,0.732016667,0.991356428,0.49675994
+"Sphaerophoria rueppellii Wiedemann, 1830",max,39,5000,0.758283333,0.988964378,0.586480734
+"Callicera aenea (Fabricius, 1777)",max,32,5000,0.80428,0.977230271,0.653174295
+"Syrphus vitripennis Meigen, 1822",max,32,5000,0.8002,0.987839967,0.751594558
+"Xanthogramma coreanum Shiraki, 1930",max,34,5000,0.75641,0.986852198,0.695017039
+"Spilomyia suzukii Matsumura, 1916",max,34,5000,0.70608,0.973158247,0.572539785
+"Brachypalpus nipponicus Shiraki, 1952",max,35,5000,0.70772,0.987898455,0.540293067
+"Ferdinandea nigrifrons (Egger, 1860)",max,36,5000,0.763946667,0.987572802,0.602562706
+Parasyrphus annulatus Zetterstedtt,max,33,5000,0.799685714,0.963824572,0.654391077
+"Chrysotoxum sapporense Matsumura, 1916",max,33,5000,0.75752381,0.97754416,0.631418022
+"Chrysotoxum shirakii Matsumura, 1931",max,34,5000,0.810580952,0.965360099,0.646254146
+"Sphegina clunipes (Fallén, 1816)",max,34,5000,0.7262,0.975812225,0.632183521
+"Rhingia laevigata Loew, 1858",max,35,5000,0.849666667,0.989799995,0.810887119
+"Platycheirus immaculatus Ôhara, 1980",max,36,5000,0.8938,0.994521818,0.825866672
+"Ferdinandea cuprea (Scopoli, 1763)",max,39,5000,0.813733333,0.987476773,0.683990062
+"Temnostoma bombylans (Fabricius, 1805)",max,41,5000,0.704633333,0.923329222,0.583021526
+"Asarkina porcina (Coquillett, 1898)",max,44,5000,0.722713889,0.959009826,0.58412946
+"Xylota frontalis (Shiraki & Edashige, 1953)",max,97,5000,0.746401053,0.841767343,0.579614018
+Eristalinus viridis Coquillett,max,99,5000,0.706056316,0.853100915,0.536783628
